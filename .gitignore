@@ -10,8 +10,7 @@
 dist/
 
 # Personal folders
-Note*
-note*
+Archive*
 
 # User-specific files
 *.rsuser
