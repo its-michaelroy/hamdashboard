@@ -1,0 +1,22 @@
+{
+  "name": "hamdashboard",
+  "version": "1.0.0",
+  "description": "Original VA3HDL [YouTube - Presentation video](https://www.youtube.com/watch?v=sIdqMQTGNSc)",
+  "main": "config.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv-webpack": "^8.1.0",
+    "eslint": "^9.17.0",
+    "webpack": "^5.97.1",
+    "webpack-cli": "^6.0.1"
+  }
+}
