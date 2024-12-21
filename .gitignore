@@ -9,6 +9,10 @@
 # dist folder
 dist/
 
+# Personal folders
+Note*
+note*
+
 # User-specific files
 *.rsuser
 *.suo

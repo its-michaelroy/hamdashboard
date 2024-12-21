@@ -17,6 +17,8 @@ module.exports = {
 
     // 3) Plugins to transform/replace env variables
     plugins: [
-        new Dotenv(),
+        new Dotenv({
+            systemvars: true
+        }),
     ],
 };
