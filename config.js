@@ -1,4 +1,4 @@
-const topBarCenterText = `VA3HDL - FN04ga`;
+const topBarCenterText = process.env.SECRET_NAME || "Ham Dashboard";
 
 // Grid layout
 var layout_cols = 4;
