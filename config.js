@@ -2,7 +2,7 @@ window.topBarCenterText = process.env.SECRET_NAME || "Ham Dashboard";
 
 // Grid layout
 var layout_cols = 4;
-var layout_rows = 3;
+var layout_rows = 4;
 
 // Menu items
 // Structure is as follows HTML Color code, Option, target URL, scaling 1=Original Size, side (optional, nothing is Left, "R" is Right)

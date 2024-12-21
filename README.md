@@ -54,7 +54,9 @@ VA3HDL en español [YouTube - Video en español](https://www.youtube.com/watch?v
 1. Just download the files from the Github repository (hamdash.html, config.js, and wheelzoom.js) and keep them together on the same folder.
 2. Open hamdash.html with any browser of your preference and you done.
 3. With any text editor (like Notepad) you can change the source images (can be more than one per box) or the menu options from the config.js file.
-
+4. If desired, you can place host your code on cloudflare and use zero trust access control (like Cloudflare Pages) to make your dashboard private or limited access. If so, you can follow the instructions below to install npm and webpack.
+    - JUST the secure Cloudflare Page setup => [Setup Instructions](Notes-Instructions/CloudflarePageSetup.md)
+    - COMPLETE SETUP => [Setup Instructions](Notes-Instructions/CompleteSetup.md)
 ### YouTube coverage:
 [YouTube - Configuration instructions contributed by Jason KM4ACK](https://youtu.be/9ZZXg60tN-o)
 
