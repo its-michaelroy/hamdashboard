@@ -78,21 +78,21 @@ window.aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
   ],
   [
-    "SATELLITE CGL",
+    "SATELLITE BRAZIL",
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa",
+    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=sa",
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://www.blitzortung.org/en/Images/image_b_sa.png",
   ],
   ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/embed/fzPFaXAV_2Y?autoplay=1&mute=1"],
   [
     "WEBSITE EXAMPLE",
-    "iframe|https://globe.adsbexchange.com/?airport=YYZ",
+    "iframe|https://globe.adsbexchange.com/?airport=SBUL",
   ],
   ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
   ["HF PROPAGATION",
