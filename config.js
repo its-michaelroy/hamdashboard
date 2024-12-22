@@ -83,7 +83,7 @@ window.aIMG = [
   ],
   [
     "LIGHTNING",
-    "iframe|https://www.lightningmaps.org/blitzortung/america/index.php?bo_page=archive&lang=en&bo_map=south_america&bo_animation=now",
+    "iframe|https://www.lightningmaps.org/blitzortung/america/index.php?bo_page=archive&lang=en&bo_map=south_america&bo_animation=now"],
   [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_sa.png",
