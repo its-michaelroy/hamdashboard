@@ -12,7 +12,7 @@ window.aURL = [
   ["add10d", "BACK", "#", "1"],
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
-  ["0dd1a7", "Help", "#", "1"],
+  ["0dd1a7", "Help", "#", "1", "R"],
   ["2196F3", "CLUBLOG", "https://clublog.org/livestream/PY3TX", "1.7"],
   [
     "2196F3",
@@ -82,8 +82,8 @@ window.aURL = [
 window.aIMG = [
     ["RADAR", "https://s0.cptec.inpe.br/grafico/Satelite/goes16/realcadas/pagina/g16ch13_cptec.jpg"],
   [
-    "#LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "PROPAGATION",
+      "https://www.tvcomm.co.uk/g7izu/Autosave/HF_ZERO1_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/ATL_HF10_AutoSave.JPG", "https://www.tvcomm.co.uk/g7izu/Autosave/PACIFIC_HF_AutoSave.JPG",
   ],
   [
     "NOAA D-RAP",
@@ -98,7 +98,7 @@ window.aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/ssa/GEOCOLOR/GOES16-SSA-GEOCOLOR-900x540.gif",
   ],
   [
-    "SAT LAST Hour",
+    "SAT LAST HR",
     "https://ciram.epagri.sc.gov.br/ciram_arquivos/meteorologia/satelite/ultima1zoom.png",
   ],
   [
@@ -114,7 +114,7 @@ window.aIMG = [
     "AIRPORT MAP",
     "iframe|https://globe.adsbexchange.com/?airport=SBUL",
   ],
-    ["RADIO BRASIL", "iframe|https://radio-brasil.com/band-news-fm-905-brasilia-1162"],
+    ["RADIO BRASIL", "iframe|https://radio-brasil.com/band-news-fm-905-brasilia-1162?autoplay=1&mute=1"],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
   [
