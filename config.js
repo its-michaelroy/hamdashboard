@@ -42,6 +42,8 @@ window.aURL = [
     ],
     ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
     ["2196F3", "APRS MAP", "https://aprs.fi/#!lat=-22.83050&lng=-43.21920", "1.2"],
+    ["2196F3", "Pardinho WebSDR", "http://appr.org.br:8905/", "1.2"],
+    ["2196F3", "Radio Secrets", "https://www.hamradiosecrets.com/listen-to-ham-radio-online.html", "1.2"],
   [
     "2196F3",
     "RADAR",
@@ -56,7 +58,9 @@ window.aURL = [
         "1",
         "R"
     ],
-  ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
+    ["2196F3", "TIME.IS", "https://time.is/", "1", "R"],
+    ["2196F3", "Earthcam", "https://www.earthcam.com/", "1", "R"],
+    ["2196F3", "Skyline Cams", "https://www.skylinewebcams.com/en/top-live-cams.html", "1", "R"],
   [
     "2196F3",
     "WEATHER",
